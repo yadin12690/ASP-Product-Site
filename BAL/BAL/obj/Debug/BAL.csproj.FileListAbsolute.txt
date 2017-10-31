@@ -1,0 +1,5 @@
+C:\Users\Yadin\Desktop\PartB_Xphone_Yadin\BAL\BAL\bin\Debug\BAL.dll
+C:\Users\Yadin\Desktop\PartB_Xphone_Yadin\BAL\BAL\bin\Debug\BAL.pdb
+C:\Users\Yadin\Desktop\PartB_Xphone_Yadin\BAL\BAL\obj\Debug\BAL.dll
+C:\Users\Yadin\Desktop\PartB_Xphone_Yadin\BAL\BAL\obj\Debug\BAL.pdb
+C:\Users\Yadin\Desktop\PartB_Xphone_Yadin\BAL\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache

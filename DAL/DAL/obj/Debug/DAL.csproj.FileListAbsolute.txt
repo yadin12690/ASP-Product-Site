@@ -1,0 +1,7 @@
+C:\Users\Yadin\Desktop\PartB_Xphone_Yadin\DAL\DAL\bin\Debug\DAL.dll
+C:\Users\Yadin\Desktop\PartB_Xphone_Yadin\DAL\DAL\bin\Debug\DAL.pdb
+C:\Users\Yadin\Desktop\PartB_Xphone_Yadin\DAL\DAL\bin\Debug\BAL.dll
+C:\Users\Yadin\Desktop\PartB_Xphone_Yadin\DAL\DAL\bin\Debug\BAL.pdb
+C:\Users\Yadin\Desktop\PartB_Xphone_Yadin\DAL\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Yadin\Desktop\PartB_Xphone_Yadin\DAL\DAL\obj\Debug\DAL.dll
+C:\Users\Yadin\Desktop\PartB_Xphone_Yadin\DAL\DAL\obj\Debug\DAL.pdb
